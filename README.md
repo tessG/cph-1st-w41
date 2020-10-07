@@ -18,6 +18,7 @@ Please note, that it is quite unusual to have a Main class in each package, yet 
 - Year
 - BodyStyle
 - Driver
+
 1.d Create a constructor, that populates all the fields above, except the Driver. 
 1.e Create a Getter and a Setter for the Driver variable.
 
